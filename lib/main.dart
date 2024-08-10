@@ -42,7 +42,7 @@ class Body extends StatelessWidget {
       child: Column(
         // mainAxisAlignment: MainAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
-        crossAxisAlignment: CrossAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.end,
         // verticalDirection: VerticalDirection.up,
         children: [
           Container(
